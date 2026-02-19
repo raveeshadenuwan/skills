@@ -1,0 +1,14 @@
+C:\Users\Raveesha\Desktop\new skills\WindowsFormsApp02\WindowsFormsApp02\bin\Debug\WindowsFormsApp02.exe.config
+C:\Users\Raveesha\Desktop\new skills\WindowsFormsApp02\WindowsFormsApp02\bin\Debug\WindowsFormsApp02.exe
+C:\Users\Raveesha\Desktop\new skills\WindowsFormsApp02\WindowsFormsApp02\bin\Debug\WindowsFormsApp02.pdb
+C:\Users\Raveesha\Desktop\new skills\WindowsFormsApp02\WindowsFormsApp02\obj\Debug\WindowsFormsApp02.csproj.AssemblyReference.cache
+C:\Users\Raveesha\Desktop\new skills\WindowsFormsApp02\WindowsFormsApp02\obj\Debug\WindowsFormsApp02.Form1.resources
+C:\Users\Raveesha\Desktop\new skills\WindowsFormsApp02\WindowsFormsApp02\obj\Debug\WindowsFormsApp02.Properties.Resources.resources
+C:\Users\Raveesha\Desktop\new skills\WindowsFormsApp02\WindowsFormsApp02\obj\Debug\WindowsFormsApp02.csproj.GenerateResource.cache
+C:\Users\Raveesha\Desktop\new skills\WindowsFormsApp02\WindowsFormsApp02\obj\Debug\WindowsFormsApp02.csproj.CoreCompileInputs.cache
+C:\Users\Raveesha\Desktop\new skills\WindowsFormsApp02\WindowsFormsApp02\obj\Debug\WindowsFormsApp02.exe
+C:\Users\Raveesha\Desktop\new skills\WindowsFormsApp02\WindowsFormsApp02\obj\Debug\WindowsFormsApp02.pdb
+C:\Users\Raveesha\Desktop\new skills\WindowsFormsApp02\WindowsFormsApp02\obj\Debug\WindowsFormsApp02.exe.config
+C:\Users\Raveesha\Desktop\new skills\WindowsFormsApp02\WindowsFormsApp02\obj\Debug\WindowsFormsApp02.Form2.resources
+C:\Users\Raveesha\Desktop\new skills\WindowsFormsApp02\WindowsFormsApp02\obj\Debug\WindowsFormsApp02.Form3.resources
+C:\Users\Raveesha\Desktop\new skills\WindowsFormsApp02\WindowsFormsApp02\obj\Debug\SkillsInternational.Form3.resources
